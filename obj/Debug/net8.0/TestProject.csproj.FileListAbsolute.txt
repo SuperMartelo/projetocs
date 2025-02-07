@@ -12,3 +12,4 @@ C:\Users\ramer\OneDrive\Documents\VSCode\cs ou C#\TestProject\obj\Debug\net8.0\r
 C:\Users\ramer\OneDrive\Documents\VSCode\cs ou C#\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\ramer\OneDrive\Documents\VSCode\cs ou C#\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\ramer\OneDrive\Documents\VSCode\cs ou C#\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\ramer\OneDrive\Documents\VSCode\cs ou C#\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
